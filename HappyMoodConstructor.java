@@ -1,22 +1,15 @@
 package com.bridgelabz;
 
-
-
-/**
- * Purpose - “I am in Happy Mood” message Should Return Happy
- *
- */
-
-public class SadMoodConstructor {
+public class HappyMoodConstructor {
 
 	private String message;
 
 	// Default Constructor
-	public SadMoodConstructor() {
+	public HappyMoodConstructor() {
 	}
 
 	// Parameterized constructor
-	public SadMoodConstructor(String message) {
+	public HappyMoodConstructor(String message) {
 		this.message = message;
 	}
 
